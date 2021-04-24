@@ -12,3 +12,7 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+#test-swipe-1{
+  overflow: auto;
+}
